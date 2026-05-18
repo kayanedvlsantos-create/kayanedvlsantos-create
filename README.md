@@ -1,15 +1,13 @@
-<h1 align="center">👩🏽‍💻 Kayane do Val Lima</h1>
-
+<!-- HEADER ANIMADO -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E3A6AE&height=240&section=header&text=Kayane%20do%20Val%20Lima&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" />
+  <br/>
+  
 <p align="center">
-  <strong>Desenvolvedora FullStack</strong>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F4A6C1&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedora+FullStack;Frontend+Lover;JavaScript+%7C+React+%7C+TypeScript;Criando+interfaces+bonitas+e+funcionais" />
 </p>
 
 <p align="center">
   Apaixonada por criar interfaces modernas, responsivas e funcionais.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=F4A6C1&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedora+FullStack;Frontend+Lover;JavaScript+%7C+React+%7C+TypeScript;Criando+interfaces+bonitas+e+funcionais" />
 </p>
 
 <p align="center">
