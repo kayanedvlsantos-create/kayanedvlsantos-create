@@ -7,14 +7,12 @@
 </p>
 
 <p align="center">
-  Apaixonada por criar interfaces modernas, responsivas e funcionais.
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kayanedvlsantos-create&color=f4a6c1&style=flat" />
 </p>
 
 ---
+
+<h1 align="center">👩🏽‍💻 Hello World!</h1>
 
 ## ✨ Sobre mim
 
